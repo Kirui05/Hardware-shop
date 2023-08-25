@@ -1,0 +1,6 @@
+2023-08-24T00:21:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\chepkwony\wp-includes\functions.php on line 6691
+
+2023-08-24T00:21:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\chepkwony\wp-includes\functions.php on line 6691
+
+2023-08-24T01:37:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\chepkwony\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 123
+
